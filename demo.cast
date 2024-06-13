@@ -1,0 +1,11 @@
+{"version": 2, "width": 146, "height": 16, "timestamp": 1717792173, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.039979, "o", "bash: export: `=': not a valid identifier\r\nbash: export: `/usr/lib/jvm/java-11-openjdk-amd64': not a valid identifier\r\n"]
+[0.157687, "o", "JAVA_HOME: command not found\r\n"]
+[0.169102, "o", "bash: export: `/usr/lib/jvm/java-21-openjdk-amd64/bin/java': not a valid identifier\r\nbash: export: `/usr/lib/jvm/java-21-openjdk-amd64': not a valid identifier\r\nbash: export: `/usr/lib/jvm/java-21-openjdk-amd64': not a valid identifier\r\n"]
+[0.170895, "o", "\u001b]0;kaliya@kaliyas-PC: ~/java-project-61/app\u0007\u001b[01;32mkaliya@kaliyas-PC\u001b[00m:\u001b[01;34m~/java-project-61/app\u001b[00m$ "]
+[101.55045, "o", "e"]
+[101.979929, "o", "x"]
+[103.965827, "o", "i"]
+[104.158684, "o", "t"]
+[104.656112, "o", "\r\n"]
+[104.664197, "o", "exit\r\n"]
